@@ -1,0 +1,25 @@
+types/generated-snapshot/experimental/index.d.ts
+  s_3d745e29d8236d::t_0b63ba78fe0e6f 610-625,628
+types/generated-snapshot/experimental/index.ts
+  s_3d745e29d8236d::t_db80f79105d168 612-627,630
+types/generated-snapshot/index.d.ts
+  s_3d745e29d8236d::t_adfe351fb4c62f 613-628,631
+types/generated-snapshot/index.ts
+  s_3d745e29d8236d::t_984ac6474174d7 615-630,633
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "8fdf50ce429be31ab0b868d1902255bb331f1f4c",
+  "prompts": {},
+  "sessions": {
+    "s_3d745e29d8236d": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f2ffe367effe5I1Cox0pccnwlk",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Jesse Li <jesseli@cloudflare.com>"
+    }
+  }
+}
